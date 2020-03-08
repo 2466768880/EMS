@@ -69,5 +69,5 @@
 - ### [关于账户与密码](https://github.com/Lingggao/EMS/commit/8e0e6da07a1165e0f340b35b287288d01afe40ef)
 
 ---
-**衷心感谢您的观看！**  
+:star: **衷心感谢您的观看！**:heart:  
 **Ling Gao (高楷修)**
