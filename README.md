@@ -40,3 +40,27 @@
     - 任免优秀员工
     - 解雇员工
   
+## 项目结构
+### 当时不知道是怎么想的，把整个员工管理系统拆分成了三个头文件，分别负责系统主体、账户密码、员工信息相关功能的实现，因此看起来非常混乱。理解万岁！:satisfied:
+
+- **README.md (主文档)**
+- **LICENSE (许可证)**
+- **ProgramScreenshot (程序截图)**
+- **Precautions (注意事项)**
+  - 关于账户与密码.md
+  - 程序说明.md
+- **SourceCode (源代码)**
+  - main.cpp (主函数)
+  - **EMS Class (系统类，是员工管理系统的框架)**
+    - EMS.h
+    - EMS.cpp
+  - **employee Class (员工类，是员工管理系统的员工信息部分)**
+    - employee.h
+    - employee.cpp
+  - **accpas Class (账户密码类，是员工管理系统的账号密码部分)**
+    - accpas.h
+    - accpas.cpp
+  - **存储文件 (用于存储账户密码与员工信息)**
+    - Employee.txt
+    - AccPas.txt
+
