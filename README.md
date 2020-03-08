@@ -66,8 +66,8 @@
 
 ## 程序说明文档
 - ### [程序说明](https://github.com/Lingggao/EMS/blob/master/Precautions%20(%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E.md)
-- ### [关于账户与密码](https://github.com/Lingggao/EMS/commit/8e0e6da07a1165e0f340b35b287288d01afe40ef)
+- ### [关于账户与密码](https://github.com/Lingggao/EMS/blob/master/Precautions%20(%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)/%E5%85%B3%E4%BA%8E%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%AF%86%E7%A0%81.md)
 
 ---
 :star: **衷心感谢您的观看！**:heart:  
-**Ling Gao (高楷修)**
+     **Ling Gao (高楷修)**
