@@ -45,6 +45,7 @@
 
 - **README.md (主文档)**
 - **LICENSE (许可证)**
+- **员工管理系统.exe (应用程序)**
 - **ProgramScreenshot (程序截图)**
 - **Precautions (注意事项)**
   - 关于账户与密码.md
