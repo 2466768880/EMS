@@ -3,12 +3,12 @@
 > 学校 - HNIST (湖南理工学院)  
 > 作者 - Ling Gao (高楷修)  
 > 许可证 - MIT License (麻省理工学院许可证)
-
+---
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 [![HitCount](http://hits.dwyl.com/lingggao/EMS.svg)](http://hits.dwyl.com/lingggao/EMS)
 
 ### 这个是我在大学二年级时使用 C++ 写的一个控制台员工管理系统 (Employee management system)。虽然现在它看起来非常的简陋，但是在当时，我是花费了很多的时间与精力来认真完成的这个作品，这个作品可以代表我在大学二年级时的最高编程水平。
-
+---
 ## 主要功能与特性
 ### 其实功能比较简陋，但是为了让这个程序看起来很厉害，还是写了很多东西 :satisfied:
 
@@ -39,7 +39,7 @@
     - 调整员工的晋升与降级
     - 任免优秀员工
     - 解雇员工
-  
+---
 ## 项目结构
 ### 当时不知道是怎么想的，把整个员工管理系统拆分成了三个头文件，分别负责系统主体、账户密码、员工信息相关功能的实现，因此看起来非常混乱。理解万岁！:satisfied:
 
@@ -63,7 +63,7 @@
   - **存储文件 (用于存储账户密码与员工信息)**
     - Employee.txt
     - AccPas.txt
-
+---
 ## 程序说明文档
 - ### [程序说明](https://github.com/Lingggao/EMS/blob/master/Precautions%20(%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E.md)
 - ### [关于账户与密码](https://github.com/Lingggao/EMS/blob/master/Precautions%20(%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)/%E5%85%B3%E4%BA%8E%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%AF%86%E7%A0%81.md)
