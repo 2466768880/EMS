@@ -5,7 +5,8 @@
 > 许可证 - MIT License (麻省理工学院许可证)
 ---
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
-[![HitCount](http://hits.dwyl.com/lingggao/EMS.svg)](http://hits.dwyl.com/lingggao/EMS)  
+[![HitCount](http://hits.dwyl.com/lingggao/EMS.svg)](http://hits.dwyl.com/lingggao/EMS)
+[![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  
 
 :full_moon_with_face::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon_with_face:
 #### **此为我在大学二年级时使用 C++ 编写的一个控制台员工管理系统 (Employee management system)。虽然以现在的能力来看，它非常的简陋，但是在当时，它是我是花费了很多的时间与精力来认真完成的一个作品。这个作品可以代表我在大学二年级时的最高编程水平，希望可以帮助到各位 C++ 的初学者朋友们。**  
