@@ -7,7 +7,7 @@
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu"></a>
 [![HitCount](http://hits.dwyl.com/lingggao/EMS.svg)](http://hits.dwyl.com/lingggao/EMS)  
 
-#### **这个是我在大学二年级时使用 C++ 写的一个控制台员工管理系统 (Employee management system)。虽然现在它看起来非常的简陋，但是在当时，我是花费了很多的时间与精力来认真完成的这个作品，这个作品可以代表我在大学二年级时的最高编程水平。**
+#### **:grinning: 这个是我在大学二年级时使用 C++ 写的一个控制台员工管理系统 (Employee management system)。虽然现在它看起来非常的简陋，但是在当时，我是花费了很多的时间与精力来认真完成的这个作品，这个作品可以代表我在大学二年级时的最高编程水平。:grinning:**
 ---
 ## 主要功能与特性
 **虽然程序比较简陋，不过基本的功能还是非常完备的 :satisfied:**
