@@ -13,6 +13,13 @@
 :smiley_cat::smile_cat::smirk_cat::joy_cat::kissing_cat:
 
 ---
+
+## 程序说明文档 | 截图
+1. **[程序说明](https://github.com/Lingggao/EMS/blob/master/Precautions%20(%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E.md)**  
+2. **[关于账户与密码](https://github.com/Lingggao/EMS/blob/master/Precautions%20(%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)/%E5%85%B3%E4%BA%8E%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%AF%86%E7%A0%81.md)**  
+3. **[程序截图](https://github.com/Lingggao/EMS/tree/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE))**  
+
+---
 ## 主要功能与特性
 **虽然程序比较简陋，不过基本的功能还是非常完备的 :satisfied:**
 
@@ -68,12 +75,6 @@
   - **存储文件 (用于存储账户密码与员工信息)**
     - Employee.txt
     - AccPas.txt
----
-## 程序说明文档 | 截图
-1. **[程序说明](https://github.com/Lingggao/EMS/blob/master/Precautions%20(%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)/%E7%A8%8B%E5%BA%8F%E8%AF%B4%E6%98%8E.md)**  
-2. **[关于账户与密码](https://github.com/Lingggao/EMS/blob/master/Precautions%20(%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)/%E5%85%B3%E4%BA%8E%E8%B4%A6%E6%88%B7%E4%B8%8E%E5%AF%86%E7%A0%81.md)**  
-3. **[程序截图](https://github.com/Lingggao/EMS/tree/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE))**  
-
 ---
 :star: **衷心感谢您的观看！**:heart:  
 —— **Ling Gao (高楷修)**
