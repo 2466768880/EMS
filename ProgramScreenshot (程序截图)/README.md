@@ -46,4 +46,24 @@
 
 ## 企业高管登录
 
-1. 
+1. 管理员界面
+
+![管理员界面](https://github.com/Lingggao/EMS/blob/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE)/%E5%AD%98%E6%94%BE%E6%88%AA%E5%9B%BE%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9/%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E5%91%98%E5%8A%9F%E8%83%BD.png?raw=true)
+
+2. 查看企业所有员工
+
+![查看企业所有员工](https://github.com/Lingggao/EMS/blob/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE)/%E5%AD%98%E6%94%BE%E6%88%AA%E5%9B%BE%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9/%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E5%91%98%E5%8A%9F%E8%83%BD.png?raw=true)
+
+3. 员工晋升与降级
+
+![员工晋升](https://github.com/Lingggao/EMS/blob/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE)/%E5%AD%98%E6%94%BE%E6%88%AA%E5%9B%BE%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%91%98%E5%B7%A5%E6%99%8B%E5%8D%87.png?raw=true)
+
+![员工降级](https://github.com/Lingggao/EMS/blob/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE)/%E5%AD%98%E6%94%BE%E6%88%AA%E5%9B%BE%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9/%E5%91%98%E5%B7%A5%E9%99%8D%E7%BA%A7.png?raw=true)
+
+4. 任免优秀员工
+
+![任免优秀员工](https://github.com/Lingggao/EMS/blob/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE)/%E5%AD%98%E6%94%BE%E6%88%AA%E5%9B%BE%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9/%E4%BB%BB%E5%85%8D%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5.png?raw=true)
+
+5. 解雇员工
+
+![解雇员工](https://github.com/Lingggao/EMS/blob/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE)/%E5%AD%98%E6%94%BE%E6%88%AA%E5%9B%BE%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9/%E8%A7%A3%E9%9B%87%E5%91%98%E5%B7%A5.png?raw=true)
