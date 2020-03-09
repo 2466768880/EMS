@@ -10,7 +10,7 @@
 
 :full_moon_with_face::waning_gibbous_moon::last_quarter_moon::waning_crescent_moon::new_moon_with_face:
 
-# 简介
+## 简介
 #### **此为我在大学二年级时使用 C++ 编写的一个控制台员工管理系统 (Employee management system)。虽然以现在的能力来看，它非常的简陋，但是在当时，它是我是花费了很多的时间与精力来认真完成的一个作品。这个作品可以代表我在大学二年级时的最高编程水平，希望可以帮助到各位 C++ 的初学者朋友们。**  
 :smiley_cat::smile_cat::smirk_cat::joy_cat::kissing_cat:
 
