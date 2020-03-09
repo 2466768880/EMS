@@ -14,11 +14,7 @@
 
 ![注册账户](https://github.com/Lingggao/EMS/blob/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE)/%E5%AD%98%E6%94%BE%E6%88%AA%E5%9B%BE%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png?raw=true)
 
-3. 登录账户
-
-![注册账户](https://github.com/Lingggao/EMS/blob/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE)/%E5%AD%98%E6%94%BE%E6%88%AA%E5%9B%BE%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9/%E6%B3%A8%E5%86%8C%E7%95%8C%E9%9D%A2.png?raw=true)
-
-4. 首次登录账户时需要完善个人信息
+3. 首次登录账户时需要完善个人信息
 
 ![首次登录账户时需要完善个人信息](https://github.com/Lingggao/EMS/blob/master/ProgramScreenshot%20(%E7%A8%8B%E5%BA%8F%E6%88%AA%E5%9B%BE)/%E5%AD%98%E6%94%BE%E6%88%AA%E5%9B%BE%E7%94%A8%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9/%E7%AC%AC%E4%B8%80%E6%AC%A1%E7%99%BB%E5%BD%95%E8%B4%A6%E6%88%B7.png?raw=true)
 
